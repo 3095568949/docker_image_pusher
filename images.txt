@@ -1,3 +1,2 @@
-zabbix/zabbix-web-apache-mysql:latest
 zabbix/zabbix-agent:latest
 zabbix/zabbix-server:latest
